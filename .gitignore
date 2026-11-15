@@ -25,3 +25,5 @@ data/*
 # Generated outputs
 outputs/*
 !outputs/.gitkeep
+
+lab2.pdf
